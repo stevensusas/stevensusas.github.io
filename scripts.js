@@ -6,6 +6,6 @@ document.getElementById('circle2').addEventListener('click', function() {
     window.location.href = 'page2.html';
 });
 
-document.getElementById('intersection').addEventListener('click', function() {
-    window.location.href = 'intersection.html';
+document.getElementById('circle3').addEventListener('click', function() {
+    window.location.href = 'page3.html';
 });
