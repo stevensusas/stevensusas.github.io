@@ -36,54 +36,16 @@ nav ul li a:hover {
 section {
     padding: 20px;
     margin: 20px 0;
+    text-align: center;
 }
 
 #home {
     background-color: #f4f4f4;
-    text-align: center;
 }
 
-#about, #portfolio, #contact {
-    background-color: #fff;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    padding: 20px;
-    max-width: 800px;
+#venn-diagram {
+    display: inline-block;
     margin: 0 auto;
-}
-
-.portfolio-item {
-    margin: 20px 0;
-}
-
-form {
-    display: flex;
-    flex-direction: column;
-}
-
-form label {
-    margin-bottom: 5px;
-}
-
-form input, form textarea {
-    margin-bottom: 10px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-
-form button {
-    padding: 10px;
-    border: none;
-    border-radius: 4px;
-    background-color: #333;
-    color: white;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-form button:hover {
-    background-color: #555;
 }
 
 footer {
