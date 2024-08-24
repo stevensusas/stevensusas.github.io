@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://github.com/stevensusas'>Github</a> |  <a href='https://www.linkedin.com/in/hanqisu/'>LinkedIn</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a junior student at the University of Pennsylvania completing my B.A. in `Computer Science` and `Computational Biology`, also pursuing my Accelerated MSE in `Robotics`.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As a Premed-turned CS student, technology and life science research are my greatest passions. Previously I served as an undergraduate researcher at the [Yang Lab](https://www.med.upenn.edu/yanglab/) `@Penn Cancer Biology`, where I studied the protein chaperone systems that protects against neurodegeneration. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am a undergraduate researcher at the [Korb Lab](https://www.korblab.com/) `@Penn Epigenetics Institute`. I am also a Software Engineering Intern at [Grove AI](https://grovetrials.com/).
+
+Many of my projects, such as [NeuraLIVE](https://github.com/stevensusas/NeuraLIVE) and [Vision4Science](https://github.com/stevensusas/Vision4Science-HackPrinceton), focus on using technology to better the life science workflow. 
+
+I am currently building [SciSketch](https://github.com/stevensusas/SciSketch-Summer), the world's first `AI-powered life science illustrator`.
+
+Aside, I lead [TEDxPenn](https://www.tedx-penn.com/), the `TEDx` student club at UPenn and the largest student-ran TEDx organization in the world.
