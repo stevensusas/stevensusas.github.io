@@ -44,7 +44,7 @@
       "startDate": "2024-5",
       "endDate": "Present",
       "summary": "Ancient Tech is a Reinforcement Learning for Finance company. I received UPenn's Startup Internship Award to intern at Ancient Tech. I significantly improved the company's projects by doubling the training data size through integrating 3 new ticker screeners into the MySQL ETL pipeline. I utilized Docker, Selenium, and X virtual framebuffer to deploy Docker images for automated browser interactions on Linux-based production servers without GUIs, and leveraged Redis to enhance market data caching and persistence, reducing model training time by 30%.",
-      "highlights": ["Docker","MySQL", "Selenium", "Redis", "Linux"]
+      "highlights": ["Docker", "MySQL", "Selenium", "Redis", "Linux"]
     },
 
     {
@@ -55,7 +55,18 @@
       "startDate": "2024-2",
       "endDate": "Present",
       "summary": "SciSketch is a platform that uses AI to automates the science illustration process. I designed and implemented a backend framework using Apache Airflow and MySQL to automate weekly scraping of biomedical journal content from Elsevier APIs, enabling continual fine-tuning of LLMs with new data. I also engineered a text-icon mapping framework through knowledge graph-based retrieval-augmented generation (RAG) with ChromaDB and LangChain. Additionally, I built a distributed, GPU-enabled environment with AWS EC2, Spark, and GCP, reducing computation time by 70%. Using PyTorch and Huggingface APIs, I fine-tuned Google Flan-T5 to create two custom LLMs, BioPhraser and BioRegressor, and deployed them for inference with AWS Sagemaker.",
-      "highlights": ["Apache Airflow", "MySQL", "AWS EC2", "Apache Spark", "GCP", "PyTorch", "Huggingface", "AWS Sagemaker", "Vector Databases", "LangChain"]
+      "highlights": [
+        "Apache Airflow",
+        "MySQL",
+        "AWS EC2",
+        "Apache Spark",
+        "GCP",
+        "PyTorch",
+        "Huggingface",
+        "AWS Sagemaker",
+        "Vector Databases",
+        "LangChain"
+      ]
     },
 
     {
@@ -117,47 +128,17 @@
     {
       "name": "Programming",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Java",
-        "JavaScript",
-        "Swift",
-        "R",
-        "SQL",
-        "HTML & CSS"
-      ]
+      "keywords": ["Python", "Java", "JavaScript", "Swift", "R", "SQL", "HTML & CSS"]
     },
     {
       "name": "Frameworks",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Linux",
-        "Docker",
-        "Spark",
-        "Apache Airflow",
-        "PyTorch",
-        "Pandas",
-        "Flask",
-        "Next.js",
-        "LangChain",
-        "Scikit-Learn"
-      ]
+      "keywords": ["Linux", "Docker", "Spark", "Apache Airflow", "PyTorch", "Pandas", "Flask", "Next.js", "LangChain", "Scikit-Learn"]
     },
     {
       "name": "Tools",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Git",
-        "Databricks",
-        "Google Cloud",
-        "AWS",
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB",
-        "Firebase",
-        "Redis",
-        "Vector Database"
-      ]
+      "keywords": ["Git", "Databricks", "Google Cloud", "AWS", "PostgreSQL", "MySQL", "MongoDB", "Firebase", "Redis", "Vector Database"]
     }
   ]
 }
