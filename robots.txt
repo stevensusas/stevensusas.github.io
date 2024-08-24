@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stevensusas.github.io/stevensu/sitemap.xml
+Sitemap: https://stevensusas.github.io/sitemap.xml
