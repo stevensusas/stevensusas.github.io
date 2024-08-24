@@ -1,200 +1,163 @@
 {
   "basics": {
     "name": "Hanqi (Steven) Su",
-    "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hanqisu@sas.upenn.edu",
+    "phone": "650-374-8051",
+    "url": "https://stevensusas.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "3737 Chestnut Street",
+      "postalCode": "PA 19104",
+      "city": "Philadelphia",
+      "countryCode": "U.S.",
+      "region": "Pennsylvania"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Grove AI",
+      "position": "Software Engineering Intern",
+      "location": "San Francisco, CA (Remote)",
+      "url": "https://grovetrials.com/",
+      "startDate": "2024-7",
+      "endDate": "Present",
+      "summary": " conducted extensive data analysis and feature engineering on relational databases using SQL and Pandas, utilized Scikit-Learn's Random Forest and Logistic Regression models to analyze feature importance and identify key factors causing patient dropouts in clinical trials, and developed API endpoints to execute complex PostgreSQL queries, enabling real-time visualization of performance metrics for the company's automated LLM phone call agents.",
+      "highlights": ["SQL", "Pandas", " Scikit-Learn", "PostgreSQL"]
+    },
+
+    {
+      "name": "Penn Medicine Department of Digital Pathology",
+      "position": "Software Engineering Intern",
+      "location": "Philadelphia, PA",
+      "url": "https://www.zhihuang.ai/index.html",
+      "startDate": "2024-7",
+      "endDate": "Present",
+      "summary": "I am building TissueLab, a platform focused on pathologist-AI collaboration, and spearheaded the reconstruction of the MVP's frontend from Python native GUI libraries to Next.js, enabling low-code access to Vision-Language Models for physicians.",
+      "highlights": ["Next.js", "Electron.js"]
+    },
+
+    {
+      "name": "Ancient Tech",
+      "position": "Software Engineering Intern",
+      "location": "Palo Alto, CA (Remote)",
+      "url": "",
+      "startDate": "2024-5",
+      "endDate": "Present",
+      "summary": "Ancient Tech is a Reinforcement Learning for Finance company. I received UPenn's Startup Internship Award to intern at Ancient Tech. I significantly improved the company's projects by doubling the training data size through integrating 3 new ticker screeners into the MySQL ETL pipeline. I utilized Docker, Selenium, and X virtual framebuffer to deploy Docker images for automated browser interactions on Linux-based production servers without GUIs, and leveraged Redis to enhance market data caching and persistence, reducing model training time by 30%.",
+      "highlights": ["Docker","MySQL", "Selenium", "Redis", "Linux"]
+    },
+
+    {
+      "name": "SciSketch",
+      "position": "Technical Founder and CEO",
+      "location": "Philadelphia, PA",
+      "url": "https://github.com/stevensusas/SciSketch-Summer",
+      "startDate": "2024-2",
+      "endDate": "Present",
+      "summary": "SciSketch is a platform that uses AI to automates the science illustration process. I designed and implemented a backend framework using Apache Airflow and MySQL to automate weekly scraping of biomedical journal content from Elsevier APIs, enabling continual fine-tuning of LLMs with new data. I also engineered a text-icon mapping framework through knowledge graph-based retrieval-augmented generation (RAG) with ChromaDB and LangChain. Additionally, I built a distributed, GPU-enabled environment with AWS EC2, Spark, and GCP, reducing computation time by 70%. Using PyTorch and Huggingface APIs, I fine-tuned Google Flan-T5 to create two custom LLMs, BioPhraser and BioRegressor, and deployed them for inference with AWS Sagemaker.",
+      "highlights": ["Apache Airflow", "MySQL", "AWS EC2", "Apache Spark", "GCP", "PyTorch", "Huggingface", "AWS Sagemaker", "Vector Databases", "LangChain"]
+    },
+
+    {
+      "name": "Penn Epigenetics Institute",
+      "position": "Bioinformatics Researcher",
+      "url": "",
+      "startDate": "2023-9",
+      "endDate": "Present",
+      "summary": "I spearheaded the development of MEAnalysis, an R-package designed for streamlined neuron multielectrode array data analysis, leveraging Object-Oriented Programming to reduce researchers' analysis time by 60%. Additionally, I engineered a Next-Gen sequencing data analysis pipeline in R, leading to the discovery of 3 candidate risk genes for autism.",
+      "highlights": ["R", "Object-Oriented Programming", "Next-Gen Sequencing"]
+    },
+    {
+      "name": "TEDxPenn",
+      "position": "Club President",
+      "location": "Philadelphia, PA",
+      "url": "https://www.tedx-penn.com/",
+      "startDate": "2022-8",
+      "endDate": "Present",
+      "summary": "I lead the world's largest student-run TEDx platform with over 1,000 attendees, overseeing a team of 40 in conference logistics, speaker and sponsor outreach, and marketing. Notable speakers have included a Nobel Prize Laureate in Medicine, the former national president of Peru, a Marvel film director, and NVIDIA's Chief Cloud Architect.",
+      "highlights": []
     }
   ],
+
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Pennsylvania Hospital",
+      "location": "Philadelphia, PA",
+      "position": "Student volunteer",
+      "startDate": "2023-9",
+      "endDate": "2024-3",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Pennsylvania",
+      "location": "Philadelphia, PA",
+      "area": "Computer Science, Computational Biology, & Robotics",
+      "studyType": "Candidate for Bachelors of Arts & Masters of Engineering",
+      "startDate": "2022-8",
+      "endDate": "2026-5"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "UPenn Startup Internship Award",
+      "date": "2024-05"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Ernest M. Brown, Jr. College Alumni Society Undergraduate Research Grant",
+      "date": "2024-04"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Louis H Castor, M.D., C’48 Undergraduate Research Grant",
+      "date": "2023-12"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Java",
+        "JavaScript",
+        "Swift",
+        "R",
+        "SQL",
+        "HTML & CSS"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Frameworks",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Linux",
+        "Docker",
+        "Spark",
+        "Apache Airflow",
+        "PyTorch",
+        "Pandas",
+        "Flask",
+        "Next.js",
+        "LangChain",
+        "Scikit-Learn"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Tools",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Git",
+        "Databricks",
+        "Google Cloud",
+        "AWS",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Firebase",
+        "Redis",
+        "Vector Database"
+      ]
     }
   ]
 }

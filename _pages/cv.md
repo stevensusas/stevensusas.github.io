@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Steven_Su_Resume__Version_412_%20%2811%29.pdf
+description: Feel free to check out a PDF of my resume -->
 toc:
   sidebar: left
 ---
