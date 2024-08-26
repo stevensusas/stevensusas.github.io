@@ -2,7 +2,7 @@
 layout: page
 title: Vision4Science
 description: VR/AR protocol training. Built at HackPrinceton
-img: ../../assets/img/Blank Board (2).jpg # Replace with an actual image path
+img: ../assets/img/Blank Board (2).jpg # Replace with an actual image path
 importance: 2
 category: fun
 related_publications: true
