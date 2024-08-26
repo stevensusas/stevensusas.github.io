@@ -2,7 +2,7 @@
 layout: page
 title: NeuraLIVE
 description: Live, brightfield microscopy neuronal imaging. Built at HackHarvard
-img:
+img: Blank Board (3).png
 importance: 3
 category: fun
 related_publications: true
