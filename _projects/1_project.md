@@ -2,7 +2,7 @@
 layout: page
 title: SciSketch
 description: The world's first life science illustrator
-img: assets/img/Blank Board.jpg # Replace with an actual image path
+img: ../../assets/img/Blank Board.jpg # Replace with an actual image path
 importance: 1
 category: work
 related_publications: true

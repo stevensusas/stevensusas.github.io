@@ -2,7 +2,7 @@
 layout: page
 title: NeuraLIVE
 description: Live, brightfield microscopy neuronal imaging. Built at HackHarvard
-img: assets/img/Blank Board (3).jpg # Replace with an actual image path
+img: ../../assets/img/Blank Board (3).jpg # Replace with an actual image path
 importance: 3
 category: fun
 related_publications: true
@@ -20,11 +20,11 @@ Our project aims to leverage computer vision technology to make a contribution t
 
 ## What we built
 
-![image](https://github.com/stevensusas/NeuraLIVE/assets/113653645/0d967fc8-4779-4f99-8912-0bef056bb9ee){: style="width: 60%; height: auto;" }
+![image](https://github.com/stevensusas/NeuraLIVE/assets/113653645/0d967fc8-4779-4f99-8912-0bef056bb9ee){: style="width: 6%; height: auto;" }
 
 Figure. NeuraLIVE applying Watershed algorithm for cell segmentation
 
-![1698008209094](https://github.com/stevensusas/NeuraLIVE/assets/113653645/29977737-99ed-4291-a51b-1366dcd912aa){: style="width: 60%; height: auto;" }
+![1698008209094](https://github.com/stevensusas/NeuraLIVE/assets/113653645/29977737-99ed-4291-a51b-1366dcd912aa){: style="width: %; height: auto;" }
 
 Figure. NeuraLIVE results comparing neuriteness between non-neuronal MCF7 cell and neuronal SH-SY5Y cells confirms accuracy of neurite detection.
 
