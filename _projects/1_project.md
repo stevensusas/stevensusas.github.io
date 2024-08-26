@@ -46,7 +46,7 @@ The model needs icons it can call to convert the JSON output from inference into
 
 ### Model Finetuning
 
-![Graphical Abstract Generator Diagram](../../assets/img/345631525-2e7551ae-e833-4b53-ad92-543c279d370b.png){: style="width: 100%; height: auto;" }
+![Graphical Abstract Generator Diagram](../../assets/img/12345.png){: style="width: 100%; height: auto;" }
 
 I chose BERT-T5 (11b) as the foundational, pretrained model for the finetuning process. T5 uses an encoder-decoder architecture, enabling it with both deep, bidirectional contextual understanding of input text and text generation abilities. To construct a GPU-enabled computing environment with relatively low cost, I utilized Google Cloud's Compute Engine to instantiate a Linux virtual machine with 1x NVIDIA A100.
 
