@@ -8,8 +8,6 @@ category: fun
 related_publications: true
 ---
 
-# NueraLIVE
-
 #### [Github Repository](https://github.com/stevensusas/NeuraLIVE)
 
 <div class="embed-responsive embed-responsive-16by9">

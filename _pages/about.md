@@ -21,8 +21,8 @@ As a Premed-turned CS student, technology and life science research are my great
 
 Currently, I am a undergraduate researcher at the [Korb Lab](https://www.korblab.com/) `@Penn Epigenetics Institute`. I am also a Software Engineering Intern at [Grove AI](https://grovetrials.com/).
 
-Many of my projects, such as [NeuraLIVE](https://github.com/stevensusas/NeuraLIVE) and [Vision4Science](https://github.com/stevensusas/Vision4Science-HackPrinceton), focus on using technology to better the life science workflow.
+Many of my projects, such as [NeuraLIVE](https://stevensusas.github.io/projects/3_project/) and [Vision4Science](https://stevensusas.github.io/projects/2_project/), focus on using technology to better the life science workflow.
 
-I am currently building [SciSketch](https://github.com/stevensusas/SciSketch-Summer), the world's first `AI-powered life science illustrator`.
+I am currently building [SciSketch](https://stevensusas.github.io/projects/1_project/), the world's first `AI-powered life science illustrator`.
 
 Aside, I lead [TEDxPenn](https://www.tedx-penn.com/), the `TEDx` student club at UPenn and the largest student-ran TEDx organization in the world.
