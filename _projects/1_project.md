@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-#### [Github Repository](https://github.com/stevensusas/SciSketch)
+#### [Github Repository](https://github.com/stevensusas/SciSketch-Summer)
 
 SciSketch is the world's first life science illustrator -- You can think about it as the AI-powered BioRender. Creating complex molecular and biochemical illustrations for research manuscripts can be a tedious and time-consuming task. Existing tools, like BioRender, require users to manually select, arrange, and annotate icons on a digital canvas, which can be frustrating and redundant. This process often leads to scientists spending significant time on creating visuals instead of focusing on their research.
 
