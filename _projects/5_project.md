@@ -22,15 +22,15 @@ related_publications: false
 ### Starting up backend
 
 Navigate to FastAPI application directory:
-``` cd StackDB ```
+`cd StackDB`
 
 Set API keys:
-```set CEREBRAS_API_KEY=<API KEY>```
-```set OPENAI_API_KEY=<API KEY>```
+`set CEREBRAS_API_KEY=<API KEY>`
+`set OPENAI_API_KEY=<API KEY>`
 
 Start backend server:
 
-```python app.py```
+`python app.py`
 
 ### Launching commandline tool
 
@@ -47,8 +47,8 @@ set CEREBRAS_API_KEY=<API KEY>
 #### (2) Install the SDK
 
 1. Go to the `underflow_sdk_parent` folder
-2. create virtual environment with  `python3 -m venv underflow-env`
-3. activate virtual environemtnw with  `source underflow-env/bin/activate `
+2. create virtual environment with `python3 -m venv underflow-env`
+3. activate virtual environemtnw with `source underflow-env/bin/activate `
 4. Run `pip install -e .`
 
 #### (3) Set up the CLI
@@ -61,10 +61,9 @@ set CEREBRAS_API_KEY=<API KEY>
 underflow semgrep/semgrep-vscode 20000
 ```
 
+## Inspiration
 
-## Inspiration 
-
-Building and maintaining software is complex, time-consuming, and can quickly become expensive, especially as your application scales. Developers, particularly those in startups, often overspend on tools, cloud services, and server infrastructure without realizing it. In fact, nearly 40% of server costs are wasted due to inefficient resource allocation, and servers often remain idle for up to 80% of their runtime. 
+Building and maintaining software is complex, time-consuming, and can quickly become expensive, especially as your application scales. Developers, particularly those in startups, often overspend on tools, cloud services, and server infrastructure without realizing it. In fact, nearly 40% of server costs are wasted due to inefficient resource allocation, and servers often remain idle for up to 80% of their runtime.
 
 As your traffic and data grow, so do your expenses. Managing these rising costs while ensuring your application's performance is critical—but it's not easy. This is where Underflow comes in. It automates the process of evaluating your tech stack and provides data-driven recommendations for cost-effective services and infrastructure. By analyzing your codebase and optimizing for traffic, Underflow helps you save money while maintaining the same performance and scaling capabilities.
 
@@ -72,7 +71,7 @@ As your traffic and data grow, so do your expenses. Managing these rising costs 
 
 Underflow is a command-line tool that helps developers optimize their tech stack by analyzing the codebase and identifying opportunities to reduce costs while maintaining performance. With a single command, developers can input a GitHub repository and the number of monthly active users, and Underflow generates a detailed report comparing the current tech stack with an optimized version. The report highlights potential cost savings, performance improvements, and suggests more efficient external services. The tool also provides a clear breakdown of why certain services were recommended, making it easier for developers to make informed decisions about their infrastructure.
 
-## How we built it 
+## How we built it
 
 ![Blank board (6)](https://github.com/user-attachments/assets/f94681f3-4716-465b-b155-c8f0c13e2b02)
 
@@ -92,9 +91,11 @@ Finally, Underflow launches a GUI that presents a detailed analytics report comp
 
 This technical solution offers developers a streamlined way to evaluate and optimize their tech stacks based on real-world cost and performance considerations.
 
-## Accomplishments that we're proud of   
+## Accomplishments that we're proud of
+
 We’re proud of creating a tool that simplifies the complex task of optimizing tech stacks while reducing costs for developers. Successfully integrating multiple components, such as the OpenAI API for codebase analysis, a FastAPI backend for processing, and an AWS-hosted MySQL database for querying external services, was a significant achievement. Additionally, building a user-friendly command-line interface that provides clear, data-driven reports about tech stack performance and cost optimization is something we're excited about. We also managed to create a streamlined workflow that allows developers to assess cost-saving opportunities without needing deep knowledge of infrastructure or services.
 
-## What's next for Underflow 
+## What's next for Underflow
+
 - Generating a better database containing more comprehensive list of available external services and dependencies
 - Migrate traffic determination from user manual input to be based on server-level architecture, such as using elastic search on server logs to determine the true amount of third party service usages
