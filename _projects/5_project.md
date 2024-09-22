@@ -15,7 +15,6 @@ related_publications: false
 </div>
 
 ![Stack Underflow-1](https://github.com/user-attachments/assets/ecaf0379-86c2-492f-b9ef-79fd9a5e29de)
-![Blank board (6)](https://github.com/user-attachments/assets/f94681f3-4716-465b-b155-c8f0c13e2b02)
 
 ## How to use
 
