@@ -23,6 +23,8 @@ Currently, I am a undergraduate researcher at the [Korb Lab](https://www.korblab
 
 Many of my projects, such as [NeuraLIVE](https://stevensusas.github.io/projects/3_project/) and [Vision4Science](https://stevensusas.github.io/projects/2_project/), focus on using technology to better the life science workflow.
 
+Recently, I attended PennApps 2024 and built [Underflow](https://stevensusas.github.io/projects/5_project/), which won the **Best Use of Defang Challenge 🏆**.
+
 I am currently building [SciSketch](https://stevensusas.github.io/projects/1_project/), the world's first `AI-powered life science illustrator`.
 
 Aside, I lead [TEDxPenn](https://www.tedx-penn.com/), the `TEDx` student club at UPenn and the largest student-ran TEDx organization in the world.

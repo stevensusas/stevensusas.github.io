@@ -112,6 +112,10 @@
   ],
   "awards": [
     {
+      "title": "PennApps 2024 Best Use of Defang Challenge Winner",
+      "date": "2024-09"
+    },
+    {
       "title": "UPenn Startup Internship Award",
       "date": "2024-05"
     },
@@ -128,17 +132,33 @@
     {
       "name": "Programming",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Python", "Java", "JavaScript", "Swift", "R", "SQL", "HTML & CSS"]
+      "keywords": ["C", "Python", "Java", "JavaScript", "Swift", "R", "SQL", "Linux/Unix"]
     },
     {
-      "name": "Frameworks",
+      "name": "DevTools",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Linux", "Docker", "Spark", "Apache Airflow", "PyTorch", "Pandas", "Flask", "Next.js", "LangChain", "Scikit-Learn"]
+      "keywords": ["Git", "Docker", "Docker Compose", "Kubernetes", "Microservices", "Kafka", "Flask", "FastAPI", "Django", "NextJS", "ReactJS"]
     },
     {
-      "name": "Tools",
+      "name": "Data",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Git", "Databricks", "Google Cloud", "AWS", "PostgreSQL", "MySQL", "MongoDB", "Firebase", "Redis", "Vector Database"]
+      "keywords": [
+        "Apache Spark",
+        "Apache Airflow",
+        "PyTorch",
+        "Scikit-Learn",
+        "Pandas",
+        "Databricks",
+        "GCP",
+        "AWS",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Firebase",
+        "Redis",
+        "LangChain",
+        "Vector Databases"
+      ]
     }
   ]
 }
