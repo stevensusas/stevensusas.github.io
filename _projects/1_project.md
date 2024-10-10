@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SciSketch
-description: The world's first life science illustrator
+description: The world's first AI-powered life science illustrator
 img:
 importance: 1
 category: work
@@ -10,7 +10,7 @@ related_publications: true
 
 #### [Github Repository](https://github.com/stevensusas/SciSketch-Summer)
 
-SciSketch is the world's first life science illustrator -- You can think about it as the AI-powered BioRender. Creating complex molecular and biochemical illustrations for research manuscripts can be a tedious and time-consuming task. Existing tools, like BioRender, require users to manually select, arrange, and annotate icons on a digital canvas, which can be frustrating and redundant. This process often leads to scientists spending significant time on creating visuals instead of focusing on their research.
+SciSketch is the world's first AI-powered life science illustrator -- You can think about it as the AI-powered BioRender. Creating complex molecular and biochemical illustrations for research manuscripts can be a tedious and time-consuming task. Existing tools, like BioRender, require users to manually select, arrange, and annotate icons on a digital canvas, which can be frustrating and redundant. This process often leads to scientists spending significant time on creating visuals instead of focusing on their research.
 
 SciSketch addresses these challenges by offering a streamlined and automated solution for generating professional science figures. By leveraging advanced algorithms, SciSketch transforms detailed textual information into clear, concise, and visually appealing diagrams in seconds. This innovative tool not only saves time but also ensures that scientific illustrations are accurate and high-quality.
 
@@ -46,7 +46,7 @@ The model needs icons it can call to convert the JSON output from inference into
 
 ### Model Finetuning
 
-![NANA](../../assets/img/This is it.png){: style="width: 100%; height: auto;" }
+![NANA](https://github.com/stevensusas/SciSketch-Summer/assets/113653645/2e7551ae-e833-4b53-ad92-543c279d370b){: style="width: 100%; height: auto;" }
 
 I chose BERT-T5 (11b) as the foundational, pretrained model for the finetuning process. T5 uses an encoder-decoder architecture, enabling it with both deep, bidirectional contextual understanding of input text and text generation abilities. To construct a GPU-enabled computing environment with relatively low cost, I utilized Google Cloud's Compute Engine to instantiate a Linux virtual machine with 1x NVIDIA A100.
 
