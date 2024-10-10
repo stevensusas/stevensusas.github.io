@@ -4,9 +4,8 @@ github_users:
 repo_description_lines_max: 3
 
 github_repos:
+  - stevensusas/Underflow
   - stevensusas/MEAnalysis
   - stevensusas/SciSketch-Summer
   - stevensusas/NeuraLIVE
   - stevensusas/Vision4Science-HackPrinceton
-  - stevensusas/A-Game-of-UNO
-  - stevensusas/Infectious-Disease-Modelling-in-R

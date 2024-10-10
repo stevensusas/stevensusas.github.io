@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Underflow
-description:  PennApps 2024 Best Use of Defang Challenge Winner 🏆 <br> The cli developer tool that minimize your tech stack's development cost
+description: PennApps 2024 Best Use of Defang Challenge Winner 🏆 <br> The cli developer tool that minimize your tech stack's development cost
 img:
 importance: 2
 category: fun
@@ -10,12 +10,9 @@ related_publications: false
 
 #### [Github Repository](https://github.com/stevensusas/Underflow)
 
-
-
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://github.com/user-attachments/assets/d75a332f-8644-428d-b918-cf5b7dcd94f0" allowfullscreen></iframe>
 </div>
-
 
 ## How to use
 
@@ -74,7 +71,6 @@ Underflow is a command-line tool that helps developers optimize their tech stack
 ## How we built it
 
 <img src="https://github.com/user-attachments/assets/f94681f3-4716-465b-b155-c8f0c13e2b02" alt="Blank board (6)" width="1000">
-
 
 Underflow is a command-line tool designed for optimizing software architecture and minimizing costs based on projected user traffic. It is executed with a single command and two arguments:
 
