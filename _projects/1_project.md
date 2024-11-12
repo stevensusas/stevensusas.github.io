@@ -3,8 +3,8 @@ layout: page
 title: SciSketch
 description: The world's first AI-powered life science illustrator
 img:
-importance: 1
-category: work
+importance: 3
+category: project
 related_publications: true
 ---
 

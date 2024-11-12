@@ -1,10 +1,10 @@
 ---
 layout: page
 title: CompGrid
-description: Nucleate BioHacks 2024 2nd Place Overall 🥈 Local compute cluster management simplified
+description: Nucleate BioHacks 2024 2nd Place Overall 🥈 <br> Local compute cluster management simplified
 img:
 importance: 1
-category: fun
+category: project
 related_publications: false
 ---
 

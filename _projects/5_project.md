@@ -4,7 +4,7 @@ title: Underflow
 description: PennApps 2024 Best Use of Defang Challenge Winner 🏆 <br> The cli developer tool that minimize your tech stack's development cost
 img:
 importance: 2
-category: fun
+category: project
 related_publications: false
 ---
 

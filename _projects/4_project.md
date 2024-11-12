@@ -3,8 +3,8 @@ layout: page
 title: MEAnalysis
 description: R-package for automated neuron multielectrode array experiment data analysis
 img:
-importance: 2
-category: work
+importance: 5
+category: project
 related_publications: true
 ---
 
