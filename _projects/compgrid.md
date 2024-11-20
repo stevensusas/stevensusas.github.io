@@ -11,17 +11,21 @@ related_publications: false
 #### [Github Repository](https://github.com/stevensusas/CompGrid)
 
 ## Usage
+
 http://k8s-default-frontend-9a8b339ea2-3f40a0d41ad2dad1.elb.us-east-1.amazonaws.com/
 
 #### Owner Login:
+
 Username: steven
 Password: steven
 
 #### User Login:
+
 Username: wendy
 Password: 123456
 
 ## Motivation
+
 Pitch deck: [CompGrid.pdf](https://github.com/user-attachments/files/17822533/CompGrid.pdf)
 
 Behind every life science discovery are hardware and computing infrastructure that supports the computational cost. You cannot have a poIrful deep learning model for predicting protein folding without the GPU required for inference and training, and you cannot have a poIrful sequence alignment algorithm without the necessary data storage and distributed computing infrastructure, for example.
@@ -33,6 +37,7 @@ However, management of local computing clusters for these research institutions 
 The goal of CompGrid is to provide a unified platform that simplifies the local computing resource management process.
 
 ## Engineering Specs
+
 <img width="1121" alt="image" src="https://github.com/user-attachments/assets/873228b0-8d85-443d-91a4-855165d8c2a3">
 
 ### Cluster Simulation
@@ -70,5 +75,3 @@ I used **Terraform** to manage the complex cloud infrastructure involved in this
 #### CI/CD
 
 I used **Github Actions** to automate the deployment pipeline after changes have be pushed to main. Specifically, the CI/CD pipeline rebuild the frontend and backend containers, push them to AWS ECR, and rollout & restart the frontend and backend deployments automatically upon changes in the codebase.
-
-
