@@ -20,20 +20,7 @@
       "location": "San Francisco, CA (Remote)",
       "url": "https://grovetrials.com/",
       "startDate": "2024-7",
-      "endDate": "Present",
-      "summary": " conducted extensive data analysis and feature engineering on relational databases using SQL and Pandas, utilized Scikit-Learn's Random Forest and Logistic Regression models to analyze feature importance and identify key factors causing patient dropouts in clinical trials, and developed API endpoints to execute complex PostgreSQL queries, enabling real-time visualization of performance metrics for the company's automated LLM phone call agents.",
-      "highlights": ["SQL", "Pandas", " Scikit-Learn", "PostgreSQL"]
-    },
-
-    {
-      "name": "Penn Medicine Department of Digital Pathology",
-      "position": "Software Engineering Intern",
-      "location": "Philadelphia, PA",
-      "url": "https://www.zhihuang.ai/index.html",
-      "startDate": "2024-7",
-      "endDate": "Present",
-      "summary": "I am building TissueLab, a platform focused on pathologist-AI collaboration, and spearheaded the reconstruction of the MVP's frontend from Python native GUI libraries to Next.js, enabling low-code access to Vision-Language Models for physicians.",
-      "highlights": ["Next.js", "Electron.js"]
+      "endDate": "Present"
     },
 
     {
@@ -42,9 +29,7 @@
       "location": "Palo Alto, CA (Remote)",
       "url": "",
       "startDate": "2024-5",
-      "endDate": "Present",
-      "summary": "Ancient Tech is a Reinforcement Learning for Finance company. I received UPenn's Startup Internship Award to intern at Ancient Tech. I significantly improved the company's projects by doubling the training data size through integrating 3 new ticker screeners into the MySQL ETL pipeline. I utilized Docker, Selenium, and X virtual framebuffer to deploy Docker images for automated browser interactions on Linux-based production servers without GUIs, and leveraged Redis to enhance market data caching and persistence, reducing model training time by 30%.",
-      "highlights": ["Docker", "MySQL", "Selenium", "Redis", "Linux"]
+      "endDate": "Present"
     },
 
     {
@@ -53,20 +38,7 @@
       "location": "Philadelphia, PA",
       "url": "https://github.com/stevensusas/SciSketch-Summer",
       "startDate": "2024-2",
-      "endDate": "Present",
-      "summary": "SciSketch is a platform that uses AI to automates the science illustration process. I designed and implemented a backend framework using Apache Airflow and MySQL to automate weekly scraping of biomedical journal content from Elsevier APIs, enabling continual fine-tuning of LLMs with new data. I also engineered a text-icon mapping framework through knowledge graph-based retrieval-augmented generation (RAG) with ChromaDB and LangChain. Additionally, I built a distributed, GPU-enabled environment with AWS EC2, Spark, and GCP, reducing computation time by 70%. Using PyTorch and Huggingface APIs, I fine-tuned Google Flan-T5 to create two custom LLMs, BioPhraser and BioRegressor, and deployed them for inference with AWS Sagemaker.",
-      "highlights": [
-        "Apache Airflow",
-        "MySQL",
-        "AWS EC2",
-        "Apache Spark",
-        "GCP",
-        "PyTorch",
-        "Huggingface",
-        "AWS Sagemaker",
-        "Vector Databases",
-        "LangChain"
-      ]
+      "endDate": "2024-9"
     },
 
     {
@@ -74,19 +46,16 @@
       "position": "Bioinformatics Researcher",
       "url": "",
       "startDate": "2023-9",
-      "endDate": "Present",
-      "summary": "I spearheaded the development of MEAnalysis, an R-package designed for streamlined neuron multielectrode array data analysis, leveraging Object-Oriented Programming to reduce researchers' analysis time by 60%. Additionally, I engineered a Next-Gen sequencing data analysis pipeline in R, leading to the discovery of 3 candidate risk genes for autism.",
-      "highlights": ["R", "Object-Oriented Programming", "Next-Gen Sequencing"]
+      "endDate": "2024-9"
     },
+
     {
       "name": "TEDxPenn",
       "position": "Club President",
       "location": "Philadelphia, PA",
       "url": "https://www.tedx-penn.com/",
       "startDate": "2022-8",
-      "endDate": "Present",
-      "summary": "I lead the world's largest student-run TEDx platform with over 1,000 attendees, overseeing a team of 40 in conference logistics, speaker and sponsor outreach, and marketing. Notable speakers have included a Nobel Prize Laureate in Medicine, the former national president of Peru, a Marvel film director, and NVIDIA's Chief Cloud Architect.",
-      "highlights": []
+      "endDate": "Present"
     }
   ],
 
@@ -96,8 +65,7 @@
       "location": "Philadelphia, PA",
       "position": "Student volunteer",
       "startDate": "2023-9",
-      "endDate": "2024-3",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history."
+      "endDate": "2024-3"
     }
   ],
   "education": [
@@ -111,6 +79,10 @@
     }
   ],
   "awards": [
+    {
+      "title": "Nucleate BioHacks NYC 2nd Place Overall",
+      "date": "2024-11"
+    },
     {
       "title": "PennApps 2024 Best Use of Defang Challenge Winner",
       "date": "2024-09"
@@ -126,39 +98,6 @@
     {
       "title": "Louis H Castor, M.D., C’48 Undergraduate Research Grant",
       "date": "2023-12"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["C", "Python", "Java", "JavaScript", "Swift", "R", "SQL", "Linux/Unix"]
-    },
-    {
-      "name": "DevTools",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["Git", "Docker", "Docker Compose", "Kubernetes", "Microservices", "Kafka", "Flask", "FastAPI", "Django", "NextJS", "ReactJS"]
-    },
-    {
-      "name": "Data",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Apache Spark",
-        "Apache Airflow",
-        "PyTorch",
-        "Scikit-Learn",
-        "Pandas",
-        "Databricks",
-        "GCP",
-        "AWS",
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB",
-        "Firebase",
-        "Redis",
-        "LangChain",
-        "Vector Databases"
-      ]
     }
   ]
 }

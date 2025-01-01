@@ -10,6 +10,12 @@ related_publications: false
 
 #### [Github Repository](https://github.com/stevensusas/CompGrid)
 
+## Demo
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://github.com/user-attachments/assets/63465314-676c-46d7-a040-db5b611b66dc" allowfullscreen></iframe>
+</div>
+
 ## Usage
 
 http://k8s-default-frontend-9a8b339ea2-3f40a0d41ad2dad1.elb.us-east-1.amazonaws.com/
