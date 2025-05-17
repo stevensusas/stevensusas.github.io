@@ -10,10 +10,6 @@ related_publications: false
 
 ### [Github Repository](https://github.com/stevensusas/fusion) | [Slides](https://docs.google.com/presentation/d/1Nz4xa8kHiMg__8Uek5_Cq07a6mrCtS8q-oaCjpU1TM8/edit?usp=sharing)
 
-## Slides
-
-
-
 ## Demo
 
 <div class="embed-responsive embed-responsive-16by9">
