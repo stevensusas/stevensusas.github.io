@@ -23,4 +23,4 @@ Currently, I am the founding Software Engineering Intern at [Grove AI](https://g
 
 Check out my latest personal work: [Fusion](https://stevensusas.github.io/projects/fusion/), a server-side MCP server orchestration system, which won the Best Developer Tool Prize 🏆 at the Penn Generative AI Hackathon.
 
-Aside, I led [TEDxPenn](https://www.tedx-penn.com/), the `TEDx` student club at UPenn and the largest student-ran TEDx organization in the world. Check out more about the [TEDxPenn 2025 Conference](https://www.tedx-penn.com/2024-conference) here! 
+Aside, I led [TEDxPenn](https://www.tedx-penn.com/), the `TEDx` student club at UPenn and the largest student-ran TEDx organization in the world. Check out more about the [TEDxPenn 2025 Conference](https://www.tedx-penn.com/2024-conference) here!
