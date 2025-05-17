@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 3
 
 github_repos:
+  - stevensusas/fusion
+  - stevensusas/dynamic_moe
   - stevensusas/CompGrid
   - stevensusas/Underflow
   - stevensusas/MEAnalysis
