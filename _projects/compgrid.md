@@ -16,20 +16,6 @@ related_publications: false
   <iframe class="embed-responsive-item" src="https://github.com/user-attachments/assets/63465314-676c-46d7-a040-db5b611b66dc" allowfullscreen></iframe>
 </div>
 
-## Usage
-
-http://k8s-default-frontend-9a8b339ea2-3f40a0d41ad2dad1.elb.us-east-1.amazonaws.com/
-
-#### Owner Login:
-
-Username: steven
-Password: steven
-
-#### User Login:
-
-Username: wendy
-Password: 123456
-
 ## Motivation
 
 Pitch deck: [CompGrid.pdf](https://github.com/user-attachments/files/17822533/CompGrid.pdf)
