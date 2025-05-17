@@ -13,12 +13,12 @@ related_publications: false
 ## Demo
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=bhWKkrYuCjI" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://github.com/user-attachments/assets/f5fddd03-9dcc-45ff-80b7-9ad89c7806a3" allowfullscreen></iframe>
 </div>
 
-## Project Motivation
+## Slides
 
-Slides: [Fusion.pdf](https://docs.google.com/presentation/d/1Nz4xa8kHiMg__8Uek5_Cq07a6mrCtS8q-oaCjpU1TM8/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1Nz4xa8kHiMg__8Uek5_Cq07a6mrCtS8q-oaCjpU1TM8/edit?usp=sharing)
 
 ## Problem Statement
 
