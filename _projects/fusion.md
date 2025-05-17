@@ -8,7 +8,7 @@ category: project
 related_publications: false
 ---
 
-#### [Github Repository](https://github.com/stevensusas/CompGrid)
+#### [Github Repository](https://github.com/stevensusas/fusion)
 
 ## Demo
 
