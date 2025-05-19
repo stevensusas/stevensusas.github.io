@@ -8,7 +8,18 @@
   title={Beyond Top-k: A Comparative Study for Dynamic Routing Mechanisms in Mixture of Experts Models},
   author={Steven Su. Tarunyaa Sivakumar. Areeb Alam},
   year={2025},
+  journal={CIS 6200: Advanced Topics in Deep Learning Final Project},
   pdf={1747333849393.pdf},
+  abstract={Mixture of Experts (MoE) models offer a scalable and compute-efficient alternative to dense transformer architectures by activating only a small, relevant subset of expert subnetworks for each input token. This sparsity allows MoE models to maintain high model capacity while significantly reducing computation per token. However, the effectiveness of these models critically depends on the routing strategy used to determine which experts are activated during inference.
+
+In this paper, we present a comprehensive comparative study of expert routing mechanisms within MoE-augmented GPT-2 models. We specifically evaluate fixed Top-k routing alongside three dynamic strategies: Top-p, Top-Any, and Entropy-Adaptive routing. Each method introduces varying levels of adaptability and complexity in how experts are selected for a given token.
+
+Our experiments, conducted on the SlimPajama dataset, assess the performance of these routing strategies across multiple metrics, including cross-entropy loss, perplexity, inference latency, memory usage, floating-point operations (FLOPs), and expert utilization. The results demonstrate that dynamic routing strategies such as Top-p and Top-Any significantly outperform both the dense baseline and the fixed Top-k routing in terms of accuracy and expert load balancing. These methods also present meaningful trade-offs in terms of compute cost and memory efficiency.
+
+To better understand the behavior of these routing strategies, we analyze the interaction between input complexity and expert selection patterns through visualizations and correlation analyses. These insights reveal that adaptive routing not only improves model expressivity but also leads to more efficient and effective expert utilization.
+
+Overall, our findings highlight the importance of dynamic routing in the design of sparse architectures. By enabling better performance and resource usage, adaptive strategies pave the way for the development of next-generation Mixture of Experts models that are both powerful and efficient.
+},
   url={https://github.com/stevensusas/dynamic_moe},
 }
 
