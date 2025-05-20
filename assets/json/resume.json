@@ -15,6 +15,13 @@
   },
   "work": [
     {
+      "name": "NVIDIA",
+      "position": "Software Infrastructure Intern (Autonomous Vehicles)",
+      "url": "",
+      "startDate": "2025-5",
+      "endDate": "Present"
+    },
+    {
       "name": "Grove AI",
       "position": "Software Engineering Intern",
       "location": "San Francisco, CA (Remote)",
@@ -22,25 +29,6 @@
       "startDate": "2024-7",
       "endDate": "Present"
     },
-
-    {
-      "name": "Ancient Tech",
-      "position": "Software Engineering Intern",
-      "location": "Palo Alto, CA (Remote)",
-      "url": "",
-      "startDate": "2024-5",
-      "endDate": "Present"
-    },
-
-    {
-      "name": "SciSketch",
-      "position": "Technical Founder and CEO",
-      "location": "Philadelphia, PA",
-      "url": "https://github.com/stevensusas/SciSketch-Summer",
-      "startDate": "2024-2",
-      "endDate": "2024-9"
-    },
-
     {
       "name": "Penn Epigenetics Institute",
       "position": "Bioinformatics Researcher",
@@ -48,7 +36,6 @@
       "startDate": "2023-9",
       "endDate": "2024-9"
     },
-
     {
       "name": "TEDxPenn",
       "position": "Club President",
@@ -79,6 +66,10 @@
     }
   ],
   "awards": [
+    {
+      "title": "Penn Generative AI Hackathon Best Developer Tool Prize",
+      "date": "2025-4"
+    },
     {
       "title": "Nucleate BioHacks NYC 2nd Place Overall",
       "date": "2024-11"
